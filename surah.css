@@ -1,0 +1,13 @@
+html body{
+    background-color: rgb(185, 204, 226);
+}
+h1 {
+    text-align: center;
+}
+
+.surah h3, .surah p {
+    text-align: center;
+    border: 5px solid rgb(123, 194, 227);
+
+}
+
